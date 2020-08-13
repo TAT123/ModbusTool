@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ModbusInterface:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="501abefd-f1f6-42b9-9eae-663d8a5cc650" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="6b03f661-8858-43ad-af1f-5b3e27de076d" value="Blue" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="docke_new" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="docke_new" type="feb32156:DbDataSourceImpl" />
+        <item name="BEIDOU: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="docke_new" type="feb32156:DbDataSourceImpl" />
+        <item name="BEIDOU: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\Maven_home\repository" />
+        <option name="userSettingsFile" value="H:\Maven_home\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhHTSPYS6iBN4eL8tAK8aIhxZJ" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MavenModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSLVPN/boot-security" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37471265" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA-workspace\ModbusInterface\src\main\resources" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\WEB-INF\lib" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\WEB-INF" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zfl.util" />
+      <recent name="com.zfl.gsonMessage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA-workspace\ModbusInterface\src\main\resources" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\src\main\resources\lib" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\WEB-INF\lib" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\lib" />
+      <recent name="F:\IDEA-workspace\ModbusInterface\src\main\java\com\zfl\modbus\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModbusApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ModbusInterface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zfl.ModbusApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="spring.profiles.active" value="test" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14142194" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="501abefd-f1f6-42b9-9eae-663d8a5cc650" name="Default" comment="" />
+      <created>1565080612689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565080612689</updated>
+      <workItem from="1565080614972" duration="8761000" />
+      <workItem from="1565231175333" duration="20631000" />
+      <workItem from="1565318199066" duration="1511000" />
+      <workItem from="1565572349958" duration="13859000" />
+      <workItem from="1565597079020" duration="1194000" />
+      <workItem from="1565675635318" duration="7125000" />
+      <workItem from="1565748514944" duration="10081000" />
+      <workItem from="1566181292140" duration="3404000" />
+      <workItem from="1566265011344" duration="17760000" />
+      <workItem from="1581491424453" duration="1414000" />
+      <workItem from="1581511089334" duration="2967000" />
+      <workItem from="1582266979899" duration="12022000" />
+      <workItem from="1582514368547" duration="2882000" />
+      <workItem from="1582527424509" duration="9000" />
+      <workItem from="1582561520117" duration="598000" />
+      <workItem from="1582564260015" duration="6245000" />
+      <workItem from="1582684402578" duration="23713000" />
+      <workItem from="1582965056950" duration="11814000" />
+      <workItem from="1583223316004" duration="13716000" />
+      <workItem from="1583341124783" duration="8370000" />
+      <workItem from="1583594572361" duration="3497000" />
+      <workItem from="1583723470156" duration="15291000" />
+      <workItem from="1584088764248" duration="8629000" />
+      <workItem from="1584241639408" duration="10374000" />
+      <workItem from="1584369668031" duration="2233000" />
+      <workItem from="1584412439771" duration="14584000" />
+      <workItem from="1585278048635" duration="6590000" />
+      <workItem from="1585386179061" duration="8290000" />
+      <workItem from="1586490443147" duration="1622000" />
+      <workItem from="1586757056854" duration="106000" />
+      <workItem from="1594884084998" duration="819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-228" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583736026794">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="-228" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583736026794" />
+    <state x="75" y="17" key="FileChooserDialogImpl" timestamp="1586757124419">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="75" y="17" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586757124419" />
+    <state width="1110" height="272" key="GridCell.Tab.0.bottom" timestamp="1586757065084">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1110" height="272" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586757065084" />
+    <state width="1110" height="272" key="GridCell.Tab.0.center" timestamp="1586757065084">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1110" height="272" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586757065084" />
+    <state width="1110" height="272" key="GridCell.Tab.0.left" timestamp="1586757065084">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1110" height="272" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586757065084" />
+    <state width="1110" height="272" key="GridCell.Tab.0.right" timestamp="1586757065084">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1110" height="272" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586757065084" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1582267422118">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1582267422118" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582270558322">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582270558322" />
+    <state x="404" y="110" width="540" height="524" key="StructurePopup" timestamp="1584456307612">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="404" y="110" width="540" height="524" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1584456307612" />
+    <state x="263" y="27" key="com.intellij.database.dbimport.ImportDialog" timestamp="1584369877804">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="27" key="com.intellij.database.dbimport.ImportDialog/0.0.1366.738@0.0.1366.738" timestamp="1584369877804" />
+    <state x="467" y="199" width="431" height="336" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1582564609381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="467" y="199" width="431" height="336" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.738@0.0.1366.738" timestamp="1582564609381" />
+    <state x="392" y="17" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584456540578">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="17" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1584456540578" />
+  </component>
+</project>
